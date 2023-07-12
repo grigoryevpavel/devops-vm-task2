@@ -3,7 +3,7 @@
 - Опишите основные преимущества применения на практике IaaC-паттернов.
 - Какой из принципов IaaC является основополагающим?
 
-##Решение
+## Решение
 
 - Ускорение вывода продукта на рынок. Снижение рисков непредвиденных трудозатрат в процессе доработок системы. Как результат, снижение срока выпуска релизов программного обеспечения.
 - Устранение дрейфа конфигураций, т.е. наличия отколонений между фактическим и ожидаемым поведением системы
@@ -43,17 +43,17 @@ Ansible.
 ## Решение
 
 ### VirtualBox 
-* Команда vboxmanage -v  *
+**Команда vboxmanage -v **
 5.2.42_Ubuntur137960
 
 ### Vagrant
 
-* Команда vagrant -v *
+**Команда vagrant -v **
 Vagrant 2.0.2
 
 ### Terraform
  
-* Команда terraform -v *
+**Команда terraform -v **
 Terraform v1.5.2
 on linux_amd64
 
@@ -62,7 +62,7 @@ is 1.5.3. You can update by downloading from https://www.terraform.io/downloads.
 
 ### Ansible
 
-* Команда  ansible --version *
+**Команда  ansible --version**
 ansible 2.5.1
   config file = /etc/ansible/ansible.cfg
   configured module search path = [u'/root/.ansible/plugins/modules', u'/usr/share/ansible/plugins/modules']
