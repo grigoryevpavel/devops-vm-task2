@@ -43,32 +43,32 @@ Ansible.
 ## Решение
 
 ### VirtualBox 
-**Команда vboxmanage -v **
-5.2.42_Ubuntur137960
+**Команда vboxmanage -v**\
+> 5.2.42_Ubuntur137960
 
 ### Vagrant
 
-**Команда vagrant -v **
-Vagrant 2.0.2
+**Команда vagrant -v**\
+> Vagrant 2.0.2
 
 ### Terraform
  
-**Команда terraform -v **
-Terraform v1.5.2
-on linux_amd64
-
-Your version of Terraform is out of date! The latest version
-is 1.5.3. You can update by downloading from https://www.terraform.io/downloads.html
+**Команда terraform -v**\
+> Terraform v1.5.2
+> on linux_amd64
+> 
+> Your version of Terraform is out of date! The latest version
+> is 1.5.3. You can update by downloading from https://www.terraform.io/downloads.html
 
 ### Ansible
 
-**Команда  ansible --version**
-ansible 2.5.1
-  config file = /etc/ansible/ansible.cfg
-  configured module search path = [u'/root/.ansible/plugins/modules', u'/usr/share/ansible/plugins/modules']
-  ansible python module location = /usr/lib/python2.7/dist-packages/ansible
-  executable location = /usr/bin/ansible
-  python version = 2.7.17 (default, Mar  8 2023, 18:40:28) [GCC 7.5.0]
+**Команда  ansible --version**\
+> ansible 2.5.1
+>  config file = /etc/ansible/ansible.cfg
+>  configured module search path = [u'/root/.ansible/plugins/modules', u'/usr/share/ansible/plugins/modules']
+>  ansible python module location = /usr/lib/python2.7/dist-packages/ansible
+>  executable location = /usr/bin/ansible
+>  python version = 2.7.17 (default, Mar  8 2023, 18:40:28) [GCC 7.5.0]
 
  
 
