@@ -70,8 +70,25 @@ Ansible.
 >  executable location = /usr/bin/ansible
 >  python version = 2.7.17 (default, Mar  8 2023, 18:40:28) [GCC 7.5.0]
 
- 
+# Задача 4 
 
+Воспроизведите практическую часть лекции самостоятельно.
+
+Создайте виртуальную машину.
+Зайдите внутрь ВМ, убедитесь, что Docker установлен с помощью команды
+docker ps,
+Vagrantfile из лекции и код ansible находятся в папке.
+ 
+Приложите скриншоты в качестве решения на эту задачу.
+
+
+## Решение
+
+Ниже скриншот установленного vagrant:
+![Vagrant ubuntu](./pictures/screenshot_Vagrant.png=800px)
+
+Ниже скриншот установленного docker через vagrant provision:
+![Docker provision](./pictures/screenshot_Ansible+docker.png=800px)
 
 
 
