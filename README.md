@@ -85,10 +85,10 @@ Vagrantfile из лекции и код ansible находятся в папке
 ## Решение
 
 Ниже скриншот установленного vagrant:
-![Vagrant ubuntu](./pictures/screenshot_Vagrant.png=800px)
+![Vagrant ubuntu](./pictures/screenshot_Vagrant.png){width=800px}
 
 Ниже скриншот установленного docker через vagrant provision:
-![Docker provision](./pictures/screenshot_Ansible+docker.png=800px)
+![Docker provision](./pictures/screenshot_Ansible+docker.png){width=800px}
 
 
 
